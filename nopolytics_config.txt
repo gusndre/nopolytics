@@ -1,2 +1,4 @@
 PIN:81dc9bdb52d04dc20036dbd8313ed055
 ID:822b1e1ddb9aa4dd
+QA:Siapa nama kucing pertama Anda?
+MSG:Gunakan aplikasi dengan bijak.
