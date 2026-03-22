@@ -1,4 +1,4 @@
-PIN:81dc9bdb52d04dc20036dbd8313ed055
+PIN:0a4006930aee0c0826243639a1ccbf7c
 ID:822b1e1ddb9aa4dd
-QA:Siapa nama kucing pertama Anda?
+QA:Sebutan bagi orang yang ruwet?
 MSG:Gunakan aplikasi dengan bijak.
