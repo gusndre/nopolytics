@@ -1,4 +1,4 @@
-PIN:0a4006930aee0c0826243639a1ccbf7c
-ID:822b1e1ddb9aa4dd
-QA:Sebutan bagi orang yang ruwet?
+PIN:e71e5cd119bbc5797164fb0cd7fd94a4
+ID:c64c170ae1196454b579cf9b8a7d4d42
+QA:Passwordnya apa hayo?
 MSG:Gunakan aplikasi dengan bijak.
