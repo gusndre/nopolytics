@@ -1,4 +1,4 @@
-PIN:abfcb403ed9493372a4295b70410f1c0
+PIN:6dd2ff1be088d16e02a7f8591ef5fa3904926dbf0c65f7d3adf24bb32a6da57a
 ID:d3ce64efb4d0a2da0f90d9ae256c865ecd7258f6
 QA:Dalam kata "RM Fajri", Huruf R singkatan dari?
 STATUS=ON
