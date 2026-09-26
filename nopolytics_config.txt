@@ -1,5 +1,5 @@
-PIN:6dd2ff1be088d16e02a7f8591ef5fa3904926dbf0c65f7d3adf24bb32a6da57a
+PIN:19e6c4355394f720983a2b7226b8b99b79296727f41cf25875f2bb4187a5f09e
 ID:d3ce64efb4d0a2da0f90d9ae256c865ecd7258f6
-QA:Dalam kata "RM Fajri", Huruf R singkatan dari?
+QA:Passwordnya apa kakak?
 STATUS=ON
 MESSAGE=Aplikasi dalam proses maintenance. Hubungi pengembang jika butuh bantuan.
